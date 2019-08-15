@@ -2,7 +2,7 @@ package com.tk.user.service;
 
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.tk.ticket.service.TicketService;
+import com.tk.ticket2.service.TicketService;
 
 import org.springframework.stereotype.Service;
 
